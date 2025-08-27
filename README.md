@@ -28,15 +28,15 @@ A **Netflix UI clone** built with **React.js**, featuring a modern and responsiv
    git clone https://github.com/Jai-Anand-JA/Netflix.git
    cd Netflix
 
-2. Install dependencies
+2. Install dependencies  
     npm install
 
-3. Run the app
+3. Run the app  
     npm start
 
 4. Open http://localhost:3000 in your browser.
 
-5. Build for production
+5. Build for production  
     npm run build
 
 ---
